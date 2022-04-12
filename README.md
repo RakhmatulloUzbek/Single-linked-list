@@ -8,6 +8,7 @@ listede tutan ve üzerinde çeşitli işlemler yapabilecek bir program yazınız
 verilmiştir:
 
 a) Program bir ana menü ile açılacak. Menüde olacak seçenekler şu şekildedir:
+
       1- Yeni Kayıt Ekleme
       2- Kayıt Listeleme
       3- Kayıt Güncelleme 
@@ -16,6 +17,7 @@ a) Program bir ana menü ile açılacak. Menüde olacak seçenekler şu şekilde
       6- Ortalamaya Göre En Başarılı Öğrenci Bilgisini Göster
 
 b) Kayıt listeleme menüsü seçildiğinde açılacak alt menüdeki seçenekler şu şekilde olacak:
+
       1- Numaraya göre ara
       *Aranacak öğrenci no girilecek ve uyan kayıt varsa tüm bilgisi listelenecek.
       2- İsme göre ara
